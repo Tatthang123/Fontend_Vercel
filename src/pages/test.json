@@ -1,0 +1,7 @@
+{
+  "uuid": "b7ca7a65-18ae-46e0-951c-b380972e40b6",
+  "file_name": "Homepage.jsx",
+  "content": "import React from 'react'\r\nimport MainLayout from '../layouts/MainLayout'\r\nimport Hero from '../components/Hero'\r\n// import WebsiteGrid from '../components/WebsiteGrid'\r\nimport AIInput from '../components/AIInput'\r\n\r\nconst HomePage = () => {\r\n  return (\r\n    <MainLayout>\r\n      <Hero />\r\n      {/* <WebsiteGrid /> */}\r\n      <AIInput />\r\n    </MainLayout>\r\n  )\r\n}\r\n\r\nexport default HomePage\r\n",
+  "created_at": "2024-09-14T01:37:03.368861Z",
+  "project_uuid": "8b20786d-7cae-4c63-8283-a156fddf163f"
+}
